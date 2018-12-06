@@ -1,4 +1,4 @@
-# techtest_fizzbuzz
+# Technical Test - FizzBuzz
 A previously completed technical test
 
 Test Intruction:
