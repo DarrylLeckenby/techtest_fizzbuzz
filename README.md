@@ -1,7 +1,7 @@
 # Technical Test - FizzBuzz
 A previously completed technical test
 
-Test Intruction:
+#### Test Intruction:
 Write a script that performs the following
 - Cycles through the numbers to 100
 - Where the number is disible by 3 write fizz
